@@ -1,5 +1,5 @@
 {
-    "name": "Bgt Music Bot",
+    "name": "khushi",
     "description": "A Telegram Music Player Bot, written in Python with Pyrogram and Py-Tgcalls.",
     "logo": "https://te.legra.ph/file/c8135608b7f9f77541a82.jpg",
     "keywords": [
@@ -14,17 +14,17 @@
     "env": {
       "API_ID": {
         "description": "Get this value from https://my.telegram.org",
-        "value": "",
+        "value": "6213538",
         "required": true
       },
       "API_HASH": {
         "description": "Get this value from https://my.telegram.org",
-        "value": "",
+        "value": "Bce3522bd21cc937ee4c688130501d5",
         "required": true
       },
       "BOT_TOKEN": {
         "description": "Put Your Bot token from Botfather",
-        "value": "",
+        "value": "6340118420:AAEn5aIrDmYbDwJFwqoJCvN4V9cbZjUPFIQ",
         "required": true
       },
       "MONGO_DB_URI": {
@@ -34,27 +34,28 @@
       },
       "MUSIC_BOT_NAME": {
         "description": "A name for your Music Bot. You can use special characters",
-        "value": "🌟⃝🌸𓆩🇧𝗚𝗧🎸🇲𝗨𝗦𝗜𝗖🎸🇧𝗢𝗧𓆪💫⃟👑 ",
+        "value": "FIGHT_8X_BOT",
         "required": true
       },
       "OWNER_ID": {
         "description": "The user id(s) of user(s) whom you would like to add as a OWNER. Multiple values shall be seperated with a space.",
-        "value": "1439222689",
+        "value": "1957692504",
         "required": true
       },
       "SUPPORT_GROUP": {
         "description": "Input Your Support Group with Full Link like https://t.me/Bgt_Chat",
-        "value": "https://t.me/BGT_CHAT",
+        "value": "https://t.me/+-fp0VCHdNtdiZjNl",
         "required": true
       },
       "SUPPORT_CHANNEL": {
         "description": "Input Your Support Channel full link ",
-        "value": "https://t.me/BIKASHGADGETSTECH",
+        "value": "https://t.me/manishsingh1000",
         "required": true
       },
       "STRING_SESSION": {
         "description": "A Pyrogram String Session. One Assistant is Compulsory.",
-        "value": "",
+        "value": "1BVtsOG8Bu54P88N1uSemLItN939S1Fu68562IxPGvGvwBg_1JnRIBZ9eMGZ4p4mSu7SK3F-WLbSjCGEZMZ7ZZPCH3TW5LMwRgborO994nllovoBrX7sNdrPUgCz53e_hJXuSw9gQHH3Nuf4shh1G9b0vC-caVhq-BNECtKTPX95Fy58BJNRada5c4pH2QG8DfucrVfY-p4MIKDFXedSGPvKQ7ZI-zDRpSJrgUYxHGyE4XRM2Q9ZCgdwIiYSZaLSmDl-Pvd6Voo4_gPSR6PZ8ORi6bYhml1wmffVEe63OI4EFUhwaqu3Xlo_Z8IAbUILGNyemkmYY6eCWaxafTSnUoDLgcYTuIZw= 
+",
         "required": true
       },
       "HEROKU_API_KEY": {
@@ -64,12 +65,12 @@
       },
       "HEROKU_APP_NAME": {
         "description": "Your heroku app name",
-        "value": "",
+        "value": "njzsjsj jejejejej",
         "required": false
       },
       "LOG_GROUP_ID": {
         "description": "Your Log Group ID, add your bot and promote as an admin with full rights !",
-        "value": "",
+        "value": "1001821188752",
         "required": true
       }
     },
